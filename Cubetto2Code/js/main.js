@@ -10,8 +10,8 @@ var MoveDuration = {
     'forward':2000,
     'turn':2000
 }
-aaa
-//移動コマンド
+
+//移動コマンドaaa
 var Move = {
     'forward':1,
     'left':2,
